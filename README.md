@@ -12,7 +12,7 @@ deep learning systems.
 
 ### Selected projects
 
-- **[miniNumpy](https://github.com/egeozkoc/miniNumpy)** — a NumPy-like array
+- **[mini-numpy](https://github.com/egeozkoc/mini-numpy)** — a NumPy-like array
   library written in modern C++, with Python bindings via pybind11.
 - **[deep-learning-from-scratch](https://github.com/egeozkoc/deep-learning-from-scratch)** —
   a neural-network framework built in NumPy: conv nets, RNNs/LSTMs, batchnorm,
