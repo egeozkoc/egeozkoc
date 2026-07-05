@@ -16,7 +16,7 @@ deep learning systems.
   library written in modern C++, with Python bindings via pybind11.
 - **[deep-learning-from-scratch](https://github.com/egeozkoc/deep-learning-from-scratch)** —
   a neural-network framework built in NumPy: conv nets, RNNs/LSTMs, batchnorm,
-  Adam, and gradient checking, with no autograd.
+  and Adam, with no autograd.
 - **[lora-from-scratch](https://github.com/egeozkoc/lora-from-scratch)** — LoRA
   implemented directly in PyTorch: the low-rank adapter, injection into existing
   layers, and weight merging.
